@@ -18,7 +18,7 @@ import com.mruraza.cleanarchitecture.ui.theme.CleanArchitectureTheme
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 
-//https://pixabay.com/api/?key=50850414-f788240405c4db19068fe6828&q=yellow+flowers&image_type=photo
+
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
